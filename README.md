@@ -1,1 +1,1 @@
-I wrote this automatic checkout script that can be used on any website to add an item to cart, goes through the checkout process (filling in customer information), enters payment information, and completes checkout without user intervention once the program is run.
+I wrote this automatic checkout script that can be used at Best Buy to add an item to cart, goes through the checkout process (filling in customer information), enters payment information, and completes checkout without user intervention once the program is run.
