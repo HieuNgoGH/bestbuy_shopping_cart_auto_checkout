@@ -1,0 +1,1 @@
+I wrote this automatic checkout script that can be used on any website to add an item to cart, goes through the checkout process (filling in customer information), enters payment information, and completes checkout without user intervention once the program is run.
